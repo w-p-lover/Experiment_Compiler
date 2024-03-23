@@ -1,0 +1,24 @@
+1  T1  =  1  *  3  
+2  if  i  <  T1  goto  4
+3  goto  24
+4  awd  =  1  
+5  T2  =  i  +  8  
+6  T3  =  T2  /  4  
+7  y  =  T3  
+8  if  i  ==  1  goto  10
+9  goto  23
+10  T4  =  1  /  2  
+11  a  =  T4  
+12  T5  =  b  +  c  
+13  T6  =  T5  *  asad  
+14  x  =  T6  
+15  if  i  >=  1  goto  17
+16  goto  22
+17  as  =  1  
+18  T7  =  c  *  asad  
+19  T8  =  b  +  T7  
+20  x  =  T8  
+21  goto  15  
+22  goto  8  
+23  goto  2  
+24  end

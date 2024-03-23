@@ -1,0 +1,24 @@
+ar n,m,c,a,b;
+
+procedure p;
+begin
+   while n>0 do
+      begin
+         a:=n*a;
+         n:=n-1;
+      end;
+end;
+
+procedure q;
+begin
+   while m#0 do
+      begin
+         b:=2*b;
+         m:=m-1;
+      end;
+   if a > b then
+      begin
+         c:=1;
+      end;
+end;
+
